@@ -50,14 +50,18 @@ Whilst holidaying with my family in turkey, I worked as a waiter for 3 days a we
 ### Extended Project Qualification
 During my A levels, I completed an extended project qualification, in which I tackled the question "what is the difference between scary and creepy?". The project looked at both phenomenons biologically backed with studies and evolutionary theory to consider the differences in function and purpose of feeling scared and creeped out. The project consisted of a 4000 word essay, presentation of my project and the progression of creating it, and a log of my experience whilst doing the extended project. I used images and tables throughout my essay and referenced studies accordingly. 
 
+You can download my EPQ [here](https://github.com/2103672/CS220-AU-portfolio/blob/main/assets/img/My%20final%20draft%20of%20the%20extended%20project.docx).
+
 ### Novel
-I am in the process of writing a horror novel called "The Lure". It is about a young girl named Angelica who lives in a big wooden estate, surrounded by a deep forest, in which her perception of reality get progressively more distorted as the story goes on. I have been inspired by many authors and horror writers to have a go at writing my own, such as Neil Gaiman and his book "Coraline", The playstation game "Little nightmares", and the Graphic novel "The Enigma of Amigara Fault" by Junji Ito. The themes of ambiguity, isolation and distortion of realities in these stories heavily inspired my story and will present these themes within the upcoming chapters. I have written chapter one and have a story board for the next chapters. 
+I am in the process of writing a horror novel called "The Lure". It is about a young girl named Angelica who lives in a big wooden estate, surrounded by a deep forest, in which her perception of reality get progressively more distorted as the story goes on. I have been inspired by many authors and horror writers to have a go at writing my own, such as Neil Gaiman and his book "Coraline", The playstation game "Little nightmares", and the Graphic novel "The Enigma of Amigara Fault" by Junji Ito. The themes of ambiguity, isolation and distortion of realities in these stories heavily inspired my story and will present these themes within the upcoming chapters. I have written chapter one and have a story board for the next chapters.
+
+![res](assets/img/enigma.jpg)
+
+***Figure 1***
+
+Read the first chapter [here](https://github.com/2103672/CS220-AU-portfolio/blob/main/assets/img/README.md).
+<br>
+
 
 <br>
 
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
-
-<br>
-
-
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
