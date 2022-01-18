@@ -1,109 +1,63 @@
-The information below can be used as a template for your own home page. 
-  
-## Krisztian Hofstadter
-**Creative technologist with teaching, technical and artistic skills**  
+## Cameron Leighton
+**Psychology with Cognitive Neuroscience Student**
 
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
-
-I am a **creative technologist** working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
-
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
+Hello, my name is Cameron Leighton. I am a student at the University of Essex, studying Psychology with Cognitive Neuroscience. After i completed my A levels in psychology, english literature/language and music, I worked in a clipper warehouse as a warehouse operative for the summer before I went off to university. I have worked abroad as a waiter. My main passion is the psychology of fear and horror media/literature, where i am always striving to learn how fear works and what makes things scary. I have a dedicated hobby towards music, in which I play the guitar, bass and piano. 
 
 <br>
 
-## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
+## Social Media Link
+- [LinkedIn](https://www.linkedin.com/in/cameron-leighton-48585622b/)
 
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
-## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+## Contact
+- cl21270@essex.ac.uk
 
 <br>
 
-## academic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
+
+## Educations
+
+| date | degree | institute | Grade |
+| ---- | ------ | --------- | ----- |
+|Ongoing|**Bsc** in Psychology with Cognitive Neuroscience |University of Essex| TBD |
+| 2021 | **EPQ** | Ferrers arts college | C |
+| 2021 | **A level** in Psychology | Ferrers arts college | B |
+| 2021 | **A level** in English Literature and Language | Ferrers arts college | B |
+| 2021 | **A level** in Music | Ferrers arts college  | C |
 
 <br>
 
-## now
-- I just wrote a template for my students' [essay](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+## Work Experience
+### Warehouse Operative
+
+07/2021 - 08/2021 &nbsp; &nbsp; 
+
+As a summer job before I went to University, I worked 12 hours each day Monday – Thursday as a warehouse operative in Clipper 535 and Daventry 2, in which I assisted in the picking, packing, and tipping of both NHS stock at clipper 535 and mountain warehouse stock at Daventry 2. The work ethic allowed me to exceptionally improve my teamwork skills and confidence within a group of people working towards the same goal. The physical labour of collecting and preparing the stock allowed for an improvement of my logic and problem-solving skills, by learning to work with both time and energy efficiency. 
+
+#### Waiter
+ 
+07/2017 - 08/2017 
+
+Whilst holidaying with my family in turkey, I worked as a waiter for 3 days a week. I would welcome guests, take their food and drink orders and serve them in the restaurant or on the beach. I would take their orders in either English or Turkish. This allowed me to improve my foreign language and communication skills as I spoke to Turkish locals using my Turkish speaking skills.
+
+
 
 <br>
 
-## educations
+## Projects
+### Extended Project Qualification
+During my A levels, I completed an extended project qualification, in which I tackled the question "what is the difference between scary and creepy?". The project looked at both phenomenons biologically backed with studies and evolutionary theory to consider the differences in function and purpose of feeling scared and creeped out. The project consisted of a 4000 word essay, presentation of my project and the progression of creating it, and a log of my experience whilst doing the extended project. I used images and tables throughout my essay and referenced studies accordingly. 
 
-| date | degree | institute |
---- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+### Novel
+I am in the process of writing a horror novel called "The Lure". It is about a young girl named Angelica who lives in a big wooden estate, surrounded by a deep forest, in which her perception of reality get progressively more distorted as the story goes on. I have been inspired by many authors and horror writers to have a go at writing my own, such as Neil Gaiman and his book "Coraline", The playstation game "Little nightmares", and the Graphic novel "The Enigma of Amigara Fault" by Junji Ito. The themes of ambiguity, isolation and distortion of realities in these stories heavily inspired my story and will present these themes within the upcoming chapters. I have written chapter one and have a story board for the next chapters. 
 
 <br>
-
-## work experience
-### research assistant positions
-#### StoryLab Research Institute
-
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
-
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
-
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
-
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
-
-<br>
-
-### associate lecturing positions
-
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
-
-<br>
-
-## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
-
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
-
-<br>
-
-Here is an example on how to embed an image from an external website:
 
 ![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
 
 <br>
-
-And here is an example for embedding an audio player:
-
-<br>
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
-
-<br>
-
-Here an example to embed a video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
