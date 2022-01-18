@@ -57,7 +57,9 @@ I am in the process of writing a horror novel called "The Lure". It is about a y
 
 ![res](assets/img/enigma.jpg)
 
-***Figure 1***
+***Figure 1 - The Enigma of Amigara Fault***
+
+This is the image that lit the passion of ambiguity and the uncanny within horror and heavily drove my story in the direction that it is going. This is the final image from "The Enigma of Amigara Fault" by Junji Ito.
 
 Read the first chapter [here](https://github.com/2103672/CS220-AU-portfolio/blob/main/assets/img/README.md).
 <br>
