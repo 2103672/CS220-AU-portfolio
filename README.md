@@ -8,8 +8,7 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - web-design with [GitHub Pages](https://pages.github.com/)
 - self-and peer-assessment
 - final checklist 
-
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+hello
 
 <br>
 
