@@ -30,6 +30,6 @@ In the `assessement.md` file I
 - [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
-The student number of the student I provided feedback with is: <!-- #todo : add your classmate's student number -->  
+The student number of the student I provided feedback with is:   
 
 
